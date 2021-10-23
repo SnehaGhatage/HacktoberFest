@@ -1,0 +1,7 @@
+New Branch in github where we can make code seprate and without affecting main branch. so if any new changes are added we can push the changes from new Branch.
+
+Command use:
+git checkout -b branch_name
+
+this will craete new branch
+then add your changes there and push
